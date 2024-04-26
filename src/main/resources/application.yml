@@ -1,0 +1,8 @@
+paypal:
+  client-id: AYNe2vVcwAmnAC-QoQAP-Un3GfI7-H8BKnjfpF9kKXnCFEvD-gV7QR4tAGIui8gUwnNf77Lc2xpXxqN7
+  client-secret: ENFQIfgCxdNNBLuurorEqANDDmH6E3gZ_6WSmn3H2E6mYxV-krygs5Gn5S3gccgjSxDV7f99LPqpFqqB
+  mode: "sandbox"
+
+app:
+  successUrl: "http://localhost:8080/payment/success"
+  cancelUrl: "http://localhost:8080/payment/cancel"
